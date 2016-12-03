@@ -2,6 +2,6 @@
     {
         "name": "EDK/Plugin-Example",
         "repository": "https://github.com/EngineDevelopmentKit/Plugin-Example.git",
-        "categories": ["Core", "Example"]
+        "categories": ["Example", "Plugin"]
     }
 ]
